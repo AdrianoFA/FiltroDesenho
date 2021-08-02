@@ -10,7 +10,7 @@ easy_install Pillow
 No prompt de comando, escrever:
 pip install opencv-python
 
-- Baixar o arquivo filtro.py em uma pasta, e colocar nessa mesma pasta as imagens em que deseja usar o filtro.
+- Baixar o arquivo filtro.py E A IMAGEM "canvas.jpg" em uma pasta, e colocar nessa mesma pasta as imagens em que deseja usar o filtro.
 - No prompt de comando, mudar de diretório até chegar na pasta criada.
 - Executar filtro.py
 

@@ -6,7 +6,7 @@ Como compilar:
 No prompt de comando, escrever:
 easy_install Pillow
 
-- Baixar o opencv do python
+- Baixar o opencv do python.
 No prompt de comando, escrever:
 pip install opencv-python
 

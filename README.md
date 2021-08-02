@@ -18,4 +18,4 @@ O programa vai pedir para você escrever o nome do arquivo que deseja usar. Bast
 
 Exemplo: imagem.jpg
 
-O programa vai receber o arquivo e abrir uma janela para exibir a imagem, transformada pelo filtro.
+O programa vai receber o arquivo e abrir uma janela para exibir a imagem, transformada pelo filtro. A imagem também será salva na mesma pasta, com o título de "nome do arquivo"\_final.jpg

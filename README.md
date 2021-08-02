@@ -13,6 +13,9 @@ pip install opencv-python
 - Baixar o arquivo filtro.py em uma pasta, e colocar nessa mesma pasta as imagens em que deseja usar o filtro.
 - No prompt de comando, mudar de diretório até chegar na pasta criada.
 - Executar filtro.py
+
 O programa vai pedir para você escrever o nome do arquivo que deseja usar. Basta inserir o nome da imagem, junto com o tipo de arquivo
+
 Exemplo: imagem.jpg
+
 O programa vai receber o arquivo e abrir uma janela para exibir a imagem, transformada pelo filtro.
